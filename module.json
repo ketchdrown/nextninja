@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "nextninja",
+    "author": "&nbsp;<font color='#FFC0CB'>ketchdrown</font>",
+    "description": "NextNinja makes you fast as shit",
+    "version": "2.0",
+    "options": {
+        "niceName": "<font color='#FFC0CB'> NextNinja </font>",
+        "reloadable": true
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/ketchdrown/fastvalk/master/"],
+    "supportUrl": "https://github.com/ketchdrown/fastvalk/issues/"
+}
