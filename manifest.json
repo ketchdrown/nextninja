@@ -1,11 +1,6 @@
 {
     "files": {
-        "index.js": "814027db54acf065083f54f05bf4368b8553c120404e18be640f78f4d23a4aa4",
+        "index.js": "a317ed3e2129d1cd9954f5ef5cad2a8063336a0a7e210fcfa2425a79de8314fe",
         "module.json": "7aaed0bdcac0f1827e0fed7a2a222fdf7917b70bd11961e3b9496cb02aeeee67"
-    },
-    "defs": {
-        "S_ACTION_END": "toclient",
-        "S_ACTION_STAGE": "assassin",
-        "S_EACH_SKILL_RESULT": "yqjnv"
     }
 }
